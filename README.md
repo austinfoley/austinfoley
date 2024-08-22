@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austinfoley
-- 👀 I’m interested in Data Science, Music, Game Modding
-- 🌱 I’m currently learning SQL, Data Analysis
+- 👀 I’m interested in Music, Programming Game Modding
+- 🌱 I’m currently learning Java, Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: austfoley@gmail.com
 
