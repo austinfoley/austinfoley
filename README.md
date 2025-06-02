@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austinfoley
-- 👀 I’m interested in Music, Programming Game Modding
-- 🌱 I’m currently learning Java, Software Development
+- 👀 I’m interested in Web Development, Music
+- 🌱 I’m currently learning Java, React, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: austfoley@gmail.com
 
